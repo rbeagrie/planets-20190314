@@ -1,3 +1,4 @@
 Mars is the famous red planet.
 It's not so far from earth.
 It's further from the sun.
+It's a bit smaller than earth.
